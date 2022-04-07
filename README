@@ -1,0 +1,4 @@
+Modifizierung der HG978-Aquarium LED-Leuchte
+- Austausch des Steuermoduls mit ESP32
+- Schaltung für LEDs
+- SMARTIsierung
